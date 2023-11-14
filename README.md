@@ -34,6 +34,6 @@
 
 ## 💾 Проекты для ознакомления
 
-<p><img width="3%" title="GitHub" src="images/technologies/github.png">[UI](https://github.com/YanaTamonova/qa_guru_python_graduation_project_web)<\p>
-<p><img width="3%" title="GitHub" src="images/technologies/github.png">[API](https://github.com/YanaTamonova/qa_guru_graduation_project_API_petstore)<\p>
-<p><img width="3%" title="GitHub" src="images/technologies/github.png">[Mobile](https://github.com/YanaTamonova/qa_guru_python_graduation_project_mobile)<\p>
+## <img width="3%" title="GitHub" src="images/technologies/github.png">[UI](https://github.com/YanaTamonova/qa_guru_python_graduation_project_web)
+## <img width="3%" title="GitHub" src="images/technologies/github.png">[API](https://github.com/YanaTamonova/qa_guru_graduation_project_API_petstore)
+## <img width="3%" title="GitHub" src="images/technologies/github.png">[Mobile](https://github.com/YanaTamonova/qa_guru_python_graduation_project_mobile)
