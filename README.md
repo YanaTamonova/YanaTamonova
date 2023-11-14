@@ -7,8 +7,8 @@
 - Мои [резюме](https://github.com/YanaTamonova/YanaTamonova/blob/main/resume/Tamonova_Yana_QA.pdf) и [сертификаты](https://github.com/YanaTamonova/YanaTamonova/tree/main/certificates)
 
 ## 🧭 Контакты
-[<img src='images/social_network/tg.png' alt='telegram' height='30'>](https://t.me/tamonova)
-[<img src='images/social_network/gmail.png' alt='gmail' height='30'>](mailto:yanta19995@gmail.com) 
+<a href="https://t.me/tamonova"><img src="images/social_network/tg.png" alt="telegram" width="40" height="40"/></a>
+<a href="mailto:yanta19995@gmail.com"><img src="images/social_network/gmail.png" alt="gmail" width="40" height="40"/></a>
 
 ## 💻 Языки и инструменты
 
