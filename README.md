@@ -8,6 +8,7 @@
 
 ## 🧭 Контакты
 <a href="https://t.me/tamonova"><img src="images/social_network/tg.png" alt="telegram" width="40" height="40"/></a>
+&#8287;
 <a href="mailto:yanta19995@gmail.com"><img src="images/social_network/gmail.png" alt="gmail" width="40" height="40"/></a>
 
 ## 💻 Языки и инструменты
