@@ -4,7 +4,7 @@
 - Меня зовут Яна
 - Я инженер по тестированию ПО с опытом работы более 3 лет
 - Сейчас изучаю создание автотестов на Python
-- Мои [резюме](https://github.com/YanaTamonova/YanaTamonova/main/resume/Tamonova_Yana_QA.pdf) и [сертификаты](https://github.com/YanaTamonova/YanaTamonova/tree/main/certificates)
+- Мои [резюме](https://github.com/YanaTamonova/YanaTamonova/blob/main/resume/Tamonova_Yana_QA.pdf) и [сертификаты](https://github.com/YanaTamonova/YanaTamonova/tree/main/certificates)
 
 ## 🧭 Контакты
 [<img src='images/social_network/tg.png' alt='telegram' height='30'>](https://t.me/tamonova)
@@ -34,6 +34,6 @@
 
 ## 💾 Проекты для ознакомления
 
-## <img width="3%" title="GitHub" src="images/technologies/github.png">[UI](https://github.com/YanaTamonova/qa_guru_python_graduation_project_web)
-## <img width="3%" title="GitHub" src="images/technologies/github.png">[API](https://github.com/YanaTamonova/qa_guru_graduation_project_API_petstore)
-## <img width="3%" title="GitHub" src="images/technologies/github.png">[Mobile](https://github.com/YanaTamonova/qa_guru_python_graduation_project_mobile)
+### <img width="3%" title="GitHub" src="images/technologies/github.png">[UI](https://github.com/YanaTamonova/qa_guru_python_graduation_project_web)
+### <img width="3%" title="GitHub" src="images/technologies/github.png">[API](https://github.com/YanaTamonova/qa_guru_graduation_project_API_petstore)
+### <img width="3%" title="GitHub" src="images/technologies/github.png">[Mobile](https://github.com/YanaTamonova/qa_guru_python_graduation_project_mobile)
