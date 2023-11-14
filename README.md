@@ -7,8 +7,8 @@
 - Мои [резюме](https://github.com/YanaTamonova/YanaTamonova/main/resume/Tamonova_Yana_QA.pdf) и [сертификаты](https://github.com/YanaTamonova/YanaTamonova/tree/main/certificates)
 
 ## 🧭 Контакты
-[<img src='images/other/tg.png' alt='telegram' height='30'>](https://t.me/tamonova)
-[<img src='images/other/gmail.png' alt='gmail' height='30'>](mailto:yanta19995@gmail.com) 
+[<img src='images/social_network/tg.png' alt='telegram' height='30'>](https://t.me/tamonova)
+[<img src='images/social_network/gmail.png' alt='gmail' height='30'>](mailto:yanta19995@gmail.com) 
 
 ## 💻 Языки и инструменты
 
@@ -34,6 +34,6 @@
 
 ## 💾 Проекты для ознакомления
 
-<img width="3%" title="GitHub" src="images/technologies/github.png">[UI](https://github.com/YanaTamonova/qa_guru_python_graduation_project_web)
-<img width="3%" title="GitHub" src="images/technologies/github.png">[API](https://github.com/YanaTamonova/qa_guru_graduation_project_API_petstore)
-<img width="3%" title="GitHub" src="images/technologies/github.png">[Mobile](https://github.com/YanaTamonova/qa_guru_python_graduation_project_mobile)
+<p><img width="3%" title="GitHub" src="images/technologies/github.png">[UI](https://github.com/YanaTamonova/qa_guru_python_graduation_project_web)<\p>
+<p><img width="3%" title="GitHub" src="images/technologies/github.png">[API](https://github.com/YanaTamonova/qa_guru_graduation_project_API_petstore)<\p>
+<p><img width="3%" title="GitHub" src="images/technologies/github.png">[Mobile](https://github.com/YanaTamonova/qa_guru_python_graduation_project_mobile)<\p>
